@@ -1,6 +1,6 @@
 # CIRL - Period Tracker App 🌸
 
-**CIRL** stands for **Cycle, Insights, Reminders, and Logs** — a smart, user-friendly menstrual cycle tracker designed as part of a **B.Tech Computer Science & Engineering Mini Project**.  
+**CIRL** stands for **Cycle, Insights, Reminders, and Logs** — a smart, user-friendly menstrual cycle tracker designed as part of **B.Tech Computer Science & Engineering Mini Project**.  
 It helps users monitor their period cycles, predict upcoming periods, track symptoms, and gain health insights.
 
 ---
@@ -36,14 +36,14 @@ It helps users monitor their period cycles, predict upcoming periods, track symp
    ```bash
    cd backend
    npm install
-   npm start
+   npm run dev
    ```
 
 3. **Frontend Setup**
    ```bash
    cd ../frontend
    npm install
-   npx react-native run-android    # or run-ios
+   npm start
    ```
 
 4. **Environment Variables**
@@ -64,5 +64,9 @@ This project is built for **academic and educational purposes**.
 - Nandhana Kunjumon
 - Sandramol B
 - Rayyan Anas
+
+---
+
+  Project submitted to APJ Abdul Kalam Technological University as part of partial fulfillment for B.Tech in Computer Science & Engineering.
 
 ---
