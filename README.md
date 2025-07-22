@@ -11,7 +11,7 @@ It helps users monitor their period cycles, predict upcoming periods, track symp
 - 📅 **Cycle Tracking**: Log period dates, duration, and cycle length.
 - 📈 **Cycle Predictions**: Predict upcoming periods, ovulation, and fertile windows.
 - 🧘 **Health Insights**: Tips for menstrual health and hygiene.
-- 🔔 **Reminders & Notifications**: Period start reminders integrated via **Google Calendar**.
+- 🔔 **Reminders & Notifications**: Period start reminders integrated via Google Calendar.
 - 📝 **Personal Logs**: Track your moods throughout the cycle.
 
 ---
@@ -76,6 +76,6 @@ This project is built for **academic and educational purposes**.
 
 ---
 
-  Project submitted to APJ Abdul Kalam Technological University as part of partial fulfillment for B.Tech in Computer Science & Engineering.
+  Project submitted to **APJ Abdul Kalam Technological University** as part of partial fulfillment for **B.Tech in Computer Science & Engineering**.
 
 ---
