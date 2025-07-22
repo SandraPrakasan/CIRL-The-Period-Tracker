@@ -19,7 +19,7 @@ It helps users monitor their period cycles, predict upcoming periods, track symp
 ## 🛠️ Tech Stack
 
 - **Frontend**: React Native, CSS
-- **Backend**: Express, Firebase
+- **Backend**: Node.js (Runtime), Express.js (Web Framework), Firebase
 - **Database**: Firebase Firestore
 - **Notifications**: Google Calendar API
 
