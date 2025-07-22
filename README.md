@@ -7,6 +7,7 @@ It helps users monitor their period cycles, predict upcoming periods, track symp
 
 ## 🚀 Features
 
+- 🔐 **User Authentication & Privacy**: Secure login for users with privacy-focused data handling.
 - 📅 **Cycle Tracking**: Log period dates, duration, and cycle length.
 - 📈 **Cycle Predictions**: Predict upcoming periods, ovulation, and fertile windows.
 - 🧘 **Health Insights**: Tips for menstrual health and hygiene.
@@ -21,6 +22,14 @@ It helps users monitor their period cycles, predict upcoming periods, track symp
 - **Backend**: Express, Firebase
 - **Database**: Firebase Firestore
 - **Notifications**: Google Calendar API
+
+---
+
+## 📦 Project Highlights
+- 📌 Simple and engaging UX tailored for health and wellness users
+- 📌 Colour-coded calendar view for quick tracking  
+- 📌 Modular architecture for easy maintenance and scalability
+- 📌 Potential for AI/ML enhancements for predictive analytics
 
 ---
 
