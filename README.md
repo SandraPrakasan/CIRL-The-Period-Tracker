@@ -7,7 +7,7 @@ It helps users monitor their period cycles, predict upcoming periods, track symp
 
 ## 🚀 Features
 
-- 🗕️ **Cycle Tracking**: Log period dates, duration, and cycle length.
+- 📅 **Cycle Tracking**: Log period dates, duration, and cycle length.
 - 📈 **Cycle Predictions**: Predict upcoming periods, ovulation, and fertile windows.
 - 🧘 **Health Insights**: Tips for menstrual health and hygiene.
 - 🔔 **Reminders & Notifications**: Period start reminders integrated via **Google Calendar**.
