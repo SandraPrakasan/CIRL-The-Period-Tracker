@@ -1,0 +1,219 @@
+/* Mobile viewport styling */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f5ebf6;
+}
+
+
+.mobile-viewport {
+  width: 100%;
+  margin: 0 auto;
+  height: 100vh;
+  background-color: #ffd4fc; /* Light pink background */
+  border-radius: 20px;
+  overflow: hidden; /* Changed from overflow-y: auto to prevent scrolling */
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  font-family: Arial, sans-serif;
+  color: #333333;
+  position: relative;
+}
+
+/* Auth Container */
+.auth-container {
+  border-radius: 49px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 20px;
+  background-color: #f5ebf6;
+  width: 335px;
+  max-width: 340px;
+  margin-top: 140px;
+  justify-content: flex-start;
+  height: 560px;
+}
+
+.rounded-input{
+  border-radius: 149px;
+  padding: 15px;
+  border: 1px solid #ddd;
+}
+
+
+  .rounded-input::placeholder {
+    color: rgba(0, 0, 0, 0.19);
+    font-weight: bold;
+  }
+
+
+.auth-container h2 {
+  text-align: left;
+  color: #540871;
+  margin-bottom: 1px;
+  margin-left: 10px;
+  font-size: 28px;
+}
+
+.auth-container input {
+  padding: 12px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  font-size: 16px;
+}
+
+/* Buttons */
+.primary-btn {
+  padding: 12px;
+  background-color: #8c588c;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.secondary-btn {
+  padding: 12px;
+  background-color: #ffebee;
+  color: #ff6f61;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.full-width {
+  width: 100%;
+}
+
+/* Links */
+.link {
+  color: #ff6f61;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.back-link {
+  color: #666;
+  text-decoration: none;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+/* Home Container */
+.home-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px;
+  height: 100%;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.home-container h2 {
+  color: #ff6f61;
+  font-size: 24px;
+}
+
+/* Calendar Container */
+.calendar {
+  background-color: #ffffff;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.calendar h3 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+/* React Calendar Custom Styles */
+.react-calendar {
+  width: 100%;
+  border: none;
+  font-family: Arial, sans-serif;
+}
+
+.react-calendar__navigation {
+  display: none;
+}
+
+.react-calendar__month-view__weekdays {
+  text-align: center;
+  color: #666;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.react-calendar__month-view__weekdays__weekday abbr {
+  text-decoration: none;
+}
+
+.react-calendar__tile {
+  text-align: center;
+  padding: 10px;
+  font-size: 14px;
+  color: #333;
+}
+
+.react-calendar__tile--active,
+.react-calendar__tile--hasActive {
+  background: #ff6f61 !important;
+  color: white !important;
+  border-radius: 50%;
+}
+
+.react-calendar__tile.current {
+  background: #ff6f61;
+  color: white;
+  border-radius: 50%;
+}
+
+/* Insights */
+.insights {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.insights h3 {
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.insight-card {
+  background-color: #ffffff;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+  font-size: 14px;
+  color: #666;
+}
+
+/* Navbar */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 0;
+  position: sticky;
+  bottom: 0;
+  background-color: #ffebee;
+  width: 100%;
+}
+
+/* Skip Button */
+.skip-btn {
+  background-color: transparent;
+  color: #ff6f61;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+}
